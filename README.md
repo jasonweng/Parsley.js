@@ -10,11 +10,15 @@ See TODO.md
 
 #Curent Stable Version
 
-1.1.15
+1.1.16
 
 # Browser compatibility
 
 IE 8+, FF 14+, Chrome
+
+# Requirements
+
+jQuery 1.6+
 
 #Install dependencies for documentation and tests
 
